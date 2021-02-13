@@ -8,12 +8,12 @@ This repository contains source code and other files which were, as far as anyon
 
 There are other public sources of this material available on the internet.
 
-| Primary Source    | Secondary Source    | Ultimate Source * |
-|:-----------------:|:-------------------:|:-----------------:|
-|      [eblong.com] |                   - | [Infocom Sources] |
+| Primary Source    | Secondary Source    | Ultimate Source *        |
+|:-----------------:|:-------------------:|:------------------------:|
+|      [eblong.com] |                   - | [Infocom Sources (copy)] |
 
 [eblong.com]: https://eblong.com/infocom/sources/amfv-rlater.zip
-[Infocom Sources]: https://github.com/zil-legacy/infocom-sources/tree/master/development/old/s5
+[Infocom Sources (copy)]: https://github.com/zil-legacy/infocom-sources/tree/master/development/old/s5
 
 \* This comes from a partial, source code only archive of "The Infocom Drive".
 
