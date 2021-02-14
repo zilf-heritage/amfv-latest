@@ -6,18 +6,7 @@ This repository contains source code and other files which were, as far as anyon
 
 ## Where did it come from?
 
-The contents of this repository were imported from [a zip file](https://eblong.com/infocom/sources/amfv-rlater.zip) hosted on [The Obsessively Complete Infocom Catalog](https://eblong.com/infocom/).
-
-There are other public sources of this material available on the internet.
-
-| Primary Source      | Secondary Source    | Ultimate Source *        |
-|:-------------------:|:-------------------:|:------------------------:|
-| [imported zip file] |                   - | [Infocom Sources (copy)] |
-
-[imported zip file]: https://eblong.com/infocom/sources/amfv-rlater.zip
-[Infocom Sources (copy)]: https://github.com/zil-legacy/infocom-sources/tree/master/development/old/s5
-
-\* This comes from a partial, source code only archive of "The Infocom Drive".
+This repository was forked from [zil-legacy/amfv-rlater-eblong](https://github.com/zil-legacy/amfv-rlater-eblong).
 
 ## What is it for?
 
